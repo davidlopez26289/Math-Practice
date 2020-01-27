@@ -1,0 +1,25 @@
+html{
+    background:linear-gradient(gray,red) ;
+    font-size: 30px;
+    color: white;
+    height: 100%;
+}
+form p{
+    width: 50%;
+    float: left;
+}
+button{
+    width: 25%;
+    float: left;
+    font-size: 30px;
+}
+input{
+    font-size: 30px;
+}
+span{
+    color:lightgray;
+}
+button{
+    background: linear-gradient(gray,black);
+    color: white;
+}
